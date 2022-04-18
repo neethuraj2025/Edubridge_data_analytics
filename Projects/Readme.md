@@ -8,7 +8,10 @@
   </h2>
   <h4>
     All the dataanalysis and Python projects, which I have done during the course of Edubridge is uploaded here
-
+    1. ExploratoryDataAnalysis-Automobile Data
+    Link : https://github.com/neethuraj2025/Edubridge_data_analytics/blob/main/Projects/ExploratoryDataAnalysis-Automobile%20Data/Project%20File/Automobile_analysis.ipynb
+    2. ExploratoryDataAnalysis-Diabetes
+    Link : https://github.com/neethuraj2025/Edubridge_data_analytics/blob/main/Projects/ExploratoryDataAnalysis-Diabetes/project%20file/Project.ipynb
   </h4>
   </html>
   
