@@ -16,7 +16,7 @@
     </h4>
       <h4>
     2. ExploratoryDataAnalysis-Diabetes
-    Link : https://github.com/neethuraj2025/Edubridge_data_analytics/blob/main/Projects/ExploratoryDataAnalysis-Diabetes/project%20file/Project.ipynb
+    <a href="https://github.com/neethuraj2025/Edubridge_data_analytics/blob/main/Projects/ExploratoryDataAnalysis-Diabetes/project%20file/Project.ipynb">Link</a>
   </h4>
   </html>
   
