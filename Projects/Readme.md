@@ -11,7 +11,8 @@
     </h4>
   <h4>
     1. ExploratoryDataAnalysis-Automobile Data
-    Link : https://github.com/neethuraj2025/Edubridge_data_analytics/blob/main/Projects/ExploratoryDataAnalysis-Automobile%20Data/Project%20File/Automobile_analysis.ipynb
+    
+    <a href="https://github.com/neethuraj2025/Edubridge_data_analytics/blob/main/Projects/ExploratoryDataAnalysis-Automobile%20Data/Project%20File/Automobile_analysis.ipynb">Link</a>
     </h4>
       <h4>
     2. ExploratoryDataAnalysis-Diabetes
