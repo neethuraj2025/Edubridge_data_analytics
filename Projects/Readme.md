@@ -11,12 +11,13 @@
     </h4>
   <h4>
     1. ExploratoryDataAnalysis-Automobile Data
-    
+  </h4>  
     <a href="https://github.com/neethuraj2025/Edubridge_data_analytics/blob/main/Projects/ExploratoryDataAnalysis-Automobile%20Data/Project%20File/Automobile_analysis.ipynb">Link</a>
-    </h4>
+    
       <h4>
     2. ExploratoryDataAnalysis-Diabetes
+        </h4>
     <a href="https://github.com/neethuraj2025/Edubridge_data_analytics/blob/main/Projects/ExploratoryDataAnalysis-Diabetes/project%20file/Project.ipynb">Link</a>
-  </h4>
+  
   </html>
   
