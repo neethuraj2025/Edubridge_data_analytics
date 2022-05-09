@@ -7,8 +7,8 @@
   <h2>
     Objective
   </h2>
-  <h4>
-    To analyse the automobile data,which has details like 
+  <p1>
+      To analyse the automobile data,which has details like 
      company 
      body-style        
      wheel-base  
@@ -17,8 +17,26 @@
      num-of-cylinders   
      horsepower
      average-mileage   
-     price            
+     price  
+  </p1>
+  <h2>
+    About the data:
+  </h2>
+  <h2>
+    Acknoweldgment :
+  </h2>
+  <p1>
+    This Datset is taken from Kaggle
+  </p1>
+ <h2>   
+  Conclusion:
+  <h2>
 
-  </h4>
   </html>
   
+  
+
+
+
+
+
