@@ -38,30 +38,25 @@
   <li>
     Machine Learning </li>
      <ul>
-     <li>Machine Learning </li>
-     <li>Machine Learning </li>
-     <li>Machine Learning </li>
-     <li>Machine Learning </li>
+     <li><a href="https://github.com/neethuraj2025/Edubridge_data_analytics/tree/main/Projects/ML%20-%20Housing%20Data">ML - Housing data</a></li>
+     <li><a href="https://github.com/neethuraj2025/Edubridge_data_analytics/tree/main/Projects/ML-Date%20fruit%20data">ML - Date Fruit Data</a></li>
+     <li><a href="url">link text</a> </li>
      </ul>
   </ul>
   
   <ul>
-  <li>EDA </li>
+  <li>Exploratory Data Analysis </li>
      <ul>
-     <li>EDA1 </li>
-     <li>Machine Learning </li>
-     <li>Machine Learning </li>
-     <li>Machine Learning </li>
+     <li><a href="url">Automobile Data</a> </li>
+     <li><a href="url">Covid Data</a>  </li>
+     <li><a href="url">Diabates Data</a>  </li>
      </ul>
   </ul>
   
   <ul>
-  <li>Statistical Analysis using python and R </li>
+  <li>Calculator with tkinter</li>
      <ul>
-     <li>EDA1 </li>
-     <li>Machine Learning </li>
-     <li>Machine Learning </li>
-     <li>Machine Learning </li>
+     <li><a href="https://github.com/neethuraj2025/Edubridge_data_analytics/tree/main/Projects/tkinter%20-%20calculator">Calculator</a> </li>
      </ul>
   </ul>  
   
@@ -69,15 +64,15 @@
   <ul>
   <li>Data Visualization -using Excel and Tableau </li>
      <ul>
-     <li>EXCel</li>
-     <li>tab  </li>
+     <li><a href="https://github.com/neethuraj2025/Edubridge_data_analytics/tree/main/Projects/Dashboard%20Excel">Excel Dashboard</a> </li>
+     <li><a href="https://github.com/neethuraj2025/Edubridge_data_analytics/tree/main/Projects/Tableau%20Dashboard">Tableau Dashboard</a> </li>
      </ul>
   </ul>    
   
   <ul>
   <li>Web scrapping </li>
      <ul>
-     <li>EXCel</li>
+     <li><a href="https://github.com/neethuraj2025/Edubridge_data_analytics/tree/main/Projects/Web%20scrapping%20-%20Flipkart">Web scrapping</a> </li>
      </ul>
   </ul>   
      
