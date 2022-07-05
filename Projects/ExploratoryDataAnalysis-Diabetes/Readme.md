@@ -6,8 +6,20 @@
     Objective
   </h2>
   <h4>
-    Diabetes is a chronic disease that occurs when the pancreas is no longer able to make insulin, or when the body cannot make good use of the insulin it produces. I have taken a dataset of Diabates patients with information about their Pregnancies,Glucoselevel,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction& Age. Our objective was to do exploratory data analysis on this data and make conclusions.
+    Diabetes is a chronic disease that occurs when the pancreas is no longer able to make insulin, or when the body cannot make good use of the insulin it produces. I   have taken a dataset of Diabates patients with information about their Pregnancies, Glucoselevel, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction & Age. Our objective was to do exploratory data analysis on this data and make conclusions.
 
   </h4>
+    <h2>
+    Acknoweldgment 
+  </h2>
+  <p1>
+    This Datset is taken from Kaggle
+  </p1>
   </html>
+  
+
+
+
+
+
   
