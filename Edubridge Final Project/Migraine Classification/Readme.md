@@ -193,14 +193,16 @@
   <h2>
     Implementation
   </h2>
-  <p1>
-    Libraries<br>
-    * NumPy<br>
-    * Pandas<br>
-    * Sklearn<br>
-    * Matplotlib<br>
-    * Seaborn<br>
-  </p1>
+ <p1>
+ Libraries<br>
+ <ul>
+  <li>NumPy</li>
+  <li>Pandas</li>
+  <li>Sklearn</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
+</ul>
+</p1>
     
   
   
@@ -218,12 +220,14 @@
   </h2>
   <p1>
 The aim is to create a model that helps the users to apply machine learning approach to predict the satisfaction level. Here, the models used are
--> Logistic Regression<br>
--> Naive Bayes<br>
--> KNN<br>
--> Decision Tree<br>
--> Random Forest<br>
--> AdaBoost<br>
+<ul>
+  <li>Logistic Regression</li>
+  <li>Naive Bayes</li>
+  <li>KNN</li>
+  <li>Decision Tree</li>
+  <li>Random Forest</li>
+  <li>AdaBoost</li>
+</ul>
   </p1>
   
   
@@ -233,6 +237,6 @@ The aim is to create a model that helps the users to apply machine learning appr
 
 
 </html>
-  
+ 
   
 
