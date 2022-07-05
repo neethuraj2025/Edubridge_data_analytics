@@ -19,18 +19,14 @@
      average-mileage   
      price  
   </p1>
-  <h2>
-    About the data:
-  </h2>
+  
   <h2>
     Acknoweldgment :
   </h2>
   <p1>
     This Datset is taken from Kaggle
   </p1>
- <h2>   
-  Conclusion:
-  <h2>
+
 
   </html>
   
