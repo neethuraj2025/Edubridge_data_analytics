@@ -3,7 +3,7 @@
 
 <html>
   <h1 align='center'>
-    Hotel managemnt system
+    Hotel management system
   </h1>
   <h2>
     Objective
