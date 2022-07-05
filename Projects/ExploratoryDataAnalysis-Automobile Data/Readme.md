@@ -21,7 +21,7 @@
   </p1>
   
   <h2>
-    Acknoweldgment :
+    Acknoweldgment 
   </h2>
   <p1>
     This Datset is taken from Kaggle
