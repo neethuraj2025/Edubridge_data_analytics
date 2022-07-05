@@ -21,6 +21,14 @@
      A migraine is a headache that can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound.This dataset provided for users whose they want to apply machine learning practices. This dataset collected from many more clients.
    </p1>
   
+  
+  <h2>
+     Acknoweldgment :
+  </h2>
+  <p1>
+    This Datset is taken from Kaggle
+  </p1>
+  
   <h2>
     Datset 
   </h2>
@@ -205,15 +213,7 @@
 </p1>
     
   
-  
-
-
-  <h2>
-     Acknoweldgment :
-  </h2>
-  <p1>
-    This Datset is taken from Kaggle
-  </p1>
+ 
  
   <h2>
    Approach
@@ -232,8 +232,64 @@ The aim is to create a model that helps the users to apply machine learning appr
   
   
  <h2>   
-  Conclusion:
-  <h2>
+  Conclusion
+ </h2>
+<p1>
+<ul>
+  <li>Time taken is maximum for Random forest and minimum for Naive Bayes</li>
+  <li>Accuracy is maximum for Naive Bayes and minimum for KNN</li>
+</ul>
+  <table>
+  <tr>
+    <th>Model</th>
+    <th>Accuracy</th>
+    <th>Time taken</th>
+    
+  </tr>
+  <tr>
+    <td>Logistic Regression</td>
+    <td>84%</td>
+    <td>0.05</td>
+    
+  </tr>
+  <tr>
+    <td>Decision Tree Classifier</td>
+    <td>83%</td>
+    <td>0.011</td>
+    
+  </tr>
+  <tr>
+    <td>Random Forest</td>
+    <td>89%</td>
+    <td>0.13</td>
+    
+  </tr>
+  <tr>
+    <td>Naive Bayes</td>
+    <td>91%</td>
+    <td>0.009</td>
+    
+  </tr>
+  <tr>
+    <td>KNN</td>
+    <td>60%</td>
+    <td>0.01</td>
+    
+  </tr>
+  <tr>
+    <td>ADA Boost</td>
+    <td>71%</td>
+    <td>.069</td>
+    
+  </tr>
+  </table>
+  <ul>
+  <li>
+  Comparing Naive Bayes is the best from among the models trained to predict the accurate result with an accuracy of 91% and time taken to execute is 0.009
+  </ul>
+  </li>
+
+</p1> 
 
 
 </html>
